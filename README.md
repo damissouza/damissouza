@@ -34,7 +34,7 @@ Meu objetivo é aplicar SQL, organização de informações e visualização de 
       <p><strong>Relatórios · Indicadores · Visualização</strong></p>
     </td>
     <td width="33%" valign="top">
-      <img src="assets/python.svg" width="48" height="48" alt="Python">
+      <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="48" height="48" alt="Python">
       <h3>Rotinas em Python</h3>
       <p>Utilização de scripts para processamento de informações, com etapas de prévia e aplicação.</p>
       <p><strong>Execução de scripts · Processamento</strong></p>
