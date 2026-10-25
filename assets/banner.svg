@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Dâmaris Souza — SQL, relatórios e visualização de dados</title>
+  <desc id="desc">Cabeçalho azul escuro com nome, área de atuação e gráfico decorativo.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#153f54"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect x="56" y="54" width="5" height="188" rx="2" fill="#5eead4"/>
+  <text x="84" y="89" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">PORTFÓLIO · ANÁLISE DE DADOS</text>
+  <text x="80" y="160" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="700">Dâmaris Souza</text>
+  <text x="84" y="207" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="23">SQL, relatórios e visualização de dados</text>
+  <g transform="translate(876 65)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect width="250" height="170" rx="18" fill="#0f172a" fill-opacity=".48" stroke="#94a3b8" stroke-opacity=".2"/>
+    <path d="M30 132H220M30 90H220M30 48H220" stroke="#94a3b8" stroke-opacity=".15"/>
+    <path d="M46 130V103M92 130V83M138 130V63M184 130V40" stroke="#38bdf8" stroke-width="17" opacity=".45"/>
+    <path d="m38 108 47-20 46 7 46-39 37-19" stroke="#5eead4" stroke-width="4"/>
+    <circle cx="214" cy="37" r="5" fill="#5eead4"/>
+  </g>
+</svg>
